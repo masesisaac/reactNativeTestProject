@@ -1,0 +1,1612 @@
+{
+	"type": "lesson",
+	"id": "4vYSnupg4HaAnkkH0egcn6",
+	"fields": {
+		"name": "Level 1, Lesson 0: Introduction",
+		"screens": [{
+			"type": "textScreen",
+			"id": "1Ilwsn7rJQtRHXFuj5dfOo",
+			"fields": {
+				"name": "Level 1, Lesson 0: Welcome to the program",
+				"text": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Welcome to the program.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "This program is designed by top sleep experts at Stanford University to help you overcome sleep issues.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				},
+				"buttonText": "Next",
+				"richText": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Welcome to the program.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "This program is designed by top sleep experts at Stanford University to help you overcome sleep issues.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "5MpuOoZvvAF3zzabHXatTa",
+			"fields": {
+				"name": "Level 1, Lesson 0: The program has 3 parts",
+				"image": {
+					"type": "Asset",
+					"id": "1dNXW4Hy1NhSls43RXYeP8",
+					"fields": {
+						"title": "Reflect, Learn, Relax",
+						"file": {
+							"url": "//images.ctfassets.net/h22nzz6co30a/1dNXW4Hy1NhSls43RXYeP8/335b02fb2a73e7f577ec55b48d0828e5/x3.1.png",
+							"details": {
+								"size": 31948,
+								"image": {
+									"width": 978,
+									"height": 630
+								}
+							},
+							"fileName": "x3.1.png",
+							"contentType": "image/png"
+						}
+					}
+				},
+				"text": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "The program has 3 parts.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				},
+				"buttonText": "Next",
+				"richText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "The program has 3 parts.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "144JVn24YV5X8zIGDZIQiz",
+			"fields": {
+				"name": "Level 7, Lesson 0: Reflect",
+				"image": {
+					"type": "Asset",
+					"id": "2jI2Qg2oE3YEts9ZxAN4AV",
+					"fields": {
+						"title": "Reflect",
+						"file": {
+							"url": "//images.ctfassets.net/h22nzz6co30a/2jI2Qg2oE3YEts9ZxAN4AV/8a122653f12876b4322becebf299037a/Group_623.png",
+							"details": {
+								"size": 23629,
+								"image": {
+									"width": 975,
+									"height": 919
+								}
+							},
+							"fileName": "Group 623.png",
+							"contentType": "image/png"
+						}
+					}
+				},
+				"text": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "1. Reflect",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "Find patterns and get personalized recommendations by reflecting on your sleep.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				},
+				"buttonText": "Next",
+				"richText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "1. Reflect",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "Find patterns and get personalized recommendations by reflecting on your sleep.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "2A2gzzRKh2bURlmeMXZgy1",
+			"fields": {
+				"name": "Level 7, Lesson 0: Learn",
+				"image": {
+					"type": "Asset",
+					"id": "2PSzdCLyRhZGFADFhkvytA",
+					"fields": {
+						"title": "Learn",
+						"file": {
+							"url": "//images.ctfassets.net/h22nzz6co30a/2PSzdCLyRhZGFADFhkvytA/787772578ed16a57d9f7e09f8e754636/Group_616.png",
+							"details": {
+								"size": 28631,
+								"image": {
+									"width": 975,
+									"height": 919
+								}
+							},
+							"fileName": "Group 616.png",
+							"contentType": "image/png"
+						}
+					}
+				},
+				"text": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "2. Learn",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Get to the root cause of your sleep issues with interactive lessons.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				},
+				"buttonText": "Next",
+				"richText": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "2. Learn",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Get to the root cause of your sleep issues with interactive lessons.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "5dr4kiOW2MY8fHHBWPIL3A",
+			"fields": {
+				"name": "Level 7, Lesson 0: Relax",
+				"image": {
+					"type": "Asset",
+					"id": "7Myk1TdFiBu1BoHySQfJpS",
+					"fields": {
+						"title": "Relax",
+						"file": {
+							"url": "//images.ctfassets.net/h22nzz6co30a/7Myk1TdFiBu1BoHySQfJpS/f7dc98059868d44edef9486fe95db9d9/Group_626.png",
+							"details": {
+								"size": 34385,
+								"image": {
+									"width": 975,
+									"height": 919
+								}
+							},
+							"fileName": "Group 626.png",
+							"contentType": "image/png"
+						}
+					}
+				},
+				"text": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "3. Relax",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Get activities to gently unwind and help sleep come faster when you need it.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				},
+				"buttonText": "Next",
+				"richText": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "3. Relax",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Get activities to gently unwind and help sleep come faster when you need it.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "1sL6c6iH2pt4lfjprS16GG",
+			"fields": {
+				"name": "Level 1, Lesson 0: You'll spend a little more time getting started today...",
+				"text": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "You’ll spend a little more time getting started today, but in general, the three parts of your program should only take about 10 minutes a day in total.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				},
+				"buttonText": "Continue",
+				"richText": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "You’ll spend a little more time getting started today, but in general, the three parts of your program should only take about 10 minutes a day in total.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "6WD9FeP3XGEG634Evbvxri",
+			"fields": {
+				"name": "Level 1, Lesson 0: We've paired you with a sleep coach",
+				"text": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "To help guide and support you, you’ll have access to your own personal sleep coach.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "If you ever have any questions, need tips, or are feeling unmotivated, your coach is here to help.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "After you’ve completed your Day 1 lessons, your coach will reach out to you within one business day.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				},
+				"buttonText": "Next",
+				"richText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "To help guide and support you, you’ll have access to your own personal sleep coach.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "If you ever have any questions, need tips, or are feeling unmotivated, your coach is here to help.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "After you’ve completed your Day 1 lessons, your coach will reach out to you within one business day.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				}
+			}
+		}, {
+			"type": "journalScreen",
+			"id": "1dzWiItiR0qaDBx6KkFCBd",
+			"fields": {
+				"name": "Level 1, Lesson 0: Please confirm the best phone number for your coach to text you",
+				"question": "Please confirm the best phone number for your coach to text you.\n\nDon’t worry - we won’t share your phone number or use it for any other reason.\n",
+				"placeholder": "Example: 123-456-7890",
+				"buttonText": "Continue",
+				"richQuestion": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Please confirm the best phone number for your coach to text you.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-1"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Don’t worry - we won’t share your phone number or use it for any other reason.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-3"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				}
+			}
+		}, {
+			"type": "textScreen",
+			"id": "2IbsZtdV4R3PQILKyOc7bo",
+			"fields": {
+				"name": "Level 7, Lesson 0: We'll start with 7 days so you can see if this program feels right for you",
+				"text": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "We'll start with 7 days so you can see if this program feels right for you.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "At the end of 7 days, you'll get a preliminary plan based on your sleep patterns. This is something you can keep forever.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "Or, you can continue to gain more insights and take steps to improve your sleep.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				},
+				"buttonText": "Let's finish up",
+				"richText": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-1",
+						"content": [{
+							"nodeType": "text",
+							"value": "We'll start with 7 days so you can see if this program feels right for you.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "At the end of 7 days, you'll get a preliminary plan based on your sleep patterns. This is something you can keep forever.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "heading-4",
+						"content": [{
+							"nodeType": "text",
+							"value": "Or, you can continue to gain more insights and take steps to improve your sleep.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				}
+			}
+		}, {
+			"type": "lessonFeedBackScreen",
+			"id": "2lEWWAfHmYC75rOAGVK7lp",
+			"fields": {
+				"name": "Level 1, Lesson 0: Feedback Outro",
+				"title": {
+					"nodeType": "document",
+					"data": {},
+					"content": [{
+						"nodeType": "heading-2",
+						"content": [{
+							"nodeType": "text",
+							"value": "That wraps up the introduction.",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}, {
+						"nodeType": "paragraph",
+						"content": [{
+							"nodeType": "text",
+							"value": "",
+							"marks": [],
+							"data": {}
+						}],
+						"data": {}
+					}]
+				},
+				"body": {
+					"data": {},
+					"content": [{
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "Now, let’s dive into the first part of the program: Reflect.",
+							"nodeType": "text"
+						}],
+						"nodeType": "heading-4"
+					}, {
+						"data": {},
+						"content": [{
+							"data": {},
+							"marks": [],
+							"value": "",
+							"nodeType": "text"
+						}],
+						"nodeType": "paragraph"
+					}],
+					"nodeType": "document"
+				},
+				"buttonText": "Done",
+				"feedbackTitle": "Rate the lesson",
+				"feedbackComponent": "feedbackThumbs"
+			}
+		}]
+	}
+}

@@ -1,0 +1,103 @@
+{
+	"success": true,
+	"data": {
+		"type": "lesson",
+		"id": "5HMsgvkTrZWERi5nFb6r28",
+		"fields": {
+			"name": "[Eng Take Home] - Level 1 Introduction",
+			"screens": [{
+				"type": "engTakeHomeTextScreen",
+				"id": "1lOTtuWs09VxLhnn31Db77",
+				"fields": {
+					"name": "[Eng Take Home]  Level 1, Lesson 0: Welcome to the program",
+					"title": "Welcome to the program.",
+					"buttonText": "Next",
+					"body": "This program is designed by top sleep experts at Stanford University to help you overcome sleep issues."
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "2x5tcqngErUshSlDAGodHM",
+				"fields": {
+					"name": "[Eng Take Home] Level 1, Lesson 0: The program has 3 parts",
+					"image": {
+						"type": "Asset",
+						"id": "6RVUskPROVamQtwYoIUBG9",
+						"fields": {
+							"title": "Reflect, Learn, Relax",
+							"file": {
+								"url": "//images.ctfassets.net/h22nzz6co30a/6RVUskPROVamQtwYoIUBG9/e677d80d18c83c7fe360aaa97b1ab32d/x3.1.png",
+								"details": {
+									"size": 31948,
+									"image": {
+										"width": 978,
+										"height": 630
+									}
+								},
+								"fileName": "x3.1.png",
+								"contentType": "image/png"
+							}
+						}
+					},
+					"buttonText": "Next",
+					"body": "The program has 3 parts."
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "4ib8mm4biHYZ5jFm0P3D4X",
+				"fields": {
+					"name": "[Eng Take Home] Level 7, Lesson 0: Reflect",
+					"buttonText": "Next",
+					"body": "1. Reflect\n\n\nFind patterns and get personalized recommendations by reflecting on your sleep."
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "5W0QJUkCHLIhQbH6QaTGUS",
+				"fields": {
+					"name": "[Eng Take Home] Level 7, Lesson 0: Learn",
+					"buttonText": "Next",
+					"body": "2. Learn\n\n\nGet to the root cause of your sleep issues with interactive lessons.\n"
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "4SxW2WUDgLsdTpeUzWQL7b",
+				"fields": {
+					"name": "[Eng Take Home] Level 7, Lesson 0: Relax",
+					"buttonText": "Next",
+					"body": "3. Relax\n\n\nGet activities to gently unwind and help sleep come faster when you need it.\n"
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "1mWbQTAbuMRSghJup5TtAF",
+				"fields": {
+					"name": "[Eng Take Home] Level 1, Lesson 0: You'll spend a little more time getting started today...",
+					"buttonText": "Continue",
+					"body": "\n\n\n\n\n\n\n\n\n\n\n\nYou’ll spend a little more time getting started today, but in general, the three parts of your program should only take about 10 minutes a day in total.\n"
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "4QwmlOA6UMs5IqAiWVskWV",
+				"fields": {
+					"name": "[Eng Take Home] Level 1, Lesson 0: We've paired you with a sleep coach",
+					"buttonText": "Next",
+					"body": "\n\n\nTo help guide and support you, you’ll have access to your own personal sleep coach.\n\n\nIf you ever have any questions, need tips, or are feeling unmotivated, your coach is here to help.\n\n\nAfter you’ve completed your Day 1 lessons, your coach will reach out to you within one business day.\n"
+				}
+			}, {
+				"type": "engTakeHomeTextScreen",
+				"id": "1Lo2n7wgED12Huko7MMz4W",
+				"fields": {
+					"name": "[Eng Take Home] Level 7, Lesson 0: We'll start with 7 days so you can see if this program feels right for you",
+					"buttonText": "Let's finish up",
+					"body": "\n\n\nWe'll start with 7 days so you can see if this program feels right for you.\n\n\nAt the end of 7 days, you'll get a preliminary plan based on your sleep patterns. This is something you can keep forever.\n\n\nOr, you can continue to gain more insights and take steps to improve your sleep.\n"
+				}
+			}, {
+				"type": "engTakeHomeFeedbackScreen",
+				"id": "2lEWWAfHmYC75rOAGVK7lp",
+				"fields": {
+					"name": "[Eng Take Home] Level 1, Lesson 0: Feedback Outro",
+					"buttonText": "Done",
+					"feedbackTitle": "Rate the lesson",
+					"body": "\n\n\nThat wraps up the introduction.\n\n\nGreat work today, and we'll see you next time.\n"
+				}}]
+		}
+	}
+}
